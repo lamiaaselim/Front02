@@ -961,6 +961,13 @@ select.form-control {
 }
 /* _________________ End SignIn/SignUp _________________*/
 
+/*___________________ Start Checkout_______________*/
+.checkout{
+	margin-bottom: 60px;
+	margin-top: 60px;
+}
+/*___________________ End Checkout________________*/
+
 /*__________________ Start Section Annonounc    ______________________*/
 .annonounc{
 	background: #EEE;
